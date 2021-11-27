@@ -1,0 +1,12 @@
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\bin\Debug\AdoNetBooks.exe.config
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\bin\Debug\AdoNetBooks.exe
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\bin\Debug\AdoNetBooks.pdb
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\obj\Debug\AdoNetBooks.csproj.AssemblyReference.cache
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\obj\Debug\AdoNetBooks.Properties.Resources.resources
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\obj\Debug\AdoNetBooks.csproj.GenerateResource.cache
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\obj\Debug\AdoNetBooks.csproj.CoreCompileInputs.cache
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\obj\Debug\AdoNetBooks.exe
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\obj\Debug\AdoNetBooks.pdb
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\obj\Debug\AdoNetBooks.Form1.resources
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\obj\Debug\AdoNetBooks.DeleteBook.resources
+C:\Users\Amiraslan\source\repos\AdoNetBooks\AdoNetBooks\obj\Debug\AdoNetBooks.AddBook.resources
